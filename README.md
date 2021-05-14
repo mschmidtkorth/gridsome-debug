@@ -8,3 +8,4 @@ Debug repository for Gridsome issue [650](https://github.com/gridsome/gridsome/i
 - Route will not load properly; hinting at hydration error
 - Refresh page
 - HOME is now loaded properly
+- Basically, the error appears whenever you attempt to follow an invalid route
